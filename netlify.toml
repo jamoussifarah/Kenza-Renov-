@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "https://kenzarenov.netlify.app/*"
+  to = "https://kenzarenov.com/:splat"
+  status = 301
+  force = true[[redirects]]
+  from = "https://kenzarenov.netlify.app/*"
+  to = "https://kenzarenov.com/:splat"
+  status = 301
+  force = true

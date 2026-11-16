@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const SITE_URL = "https://kenzarenov.netlify.app";
+const SITE_URL = "https://kenzarenov.com";
 
 export default function robots(): MetadataRoute.Robots {
   return {

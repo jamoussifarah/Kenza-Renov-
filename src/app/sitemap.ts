@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { REALISATIONS } from "@/data/realisations";
 
-const SITE_URL = "https://kenzarenov.netlify.app";
+const SITE_URL = "https://kenzarenov.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const realisationEntries: MetadataRoute.Sitemap = REALISATIONS.map((r) => ({
